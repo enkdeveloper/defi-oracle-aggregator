@@ -27,11 +27,13 @@ Prerequisites
 
 Getting Started
 
+
 1.	Clone the repository:
 
 git clone https://github.com/enkdeveloper/defi-oracle-aggregator.git
 
 cd defi-oracle-aggregator
+
 
 2.	Install dependencies:
 
@@ -41,6 +43,7 @@ npm install
 
 yarn install
 
+
 3.	Run the development server:
 
 npm run dev
@@ -49,18 +52,22 @@ npm run dev
 
 yarn dev
 
+
 4.	Open your browser and navigate to:
 
 http://localhost:5173
 
 
+
 How to Use
+
 
 1.	Homepage:
 
 o	The homepage displays a list of cryptocurrencies with their images, names, and current prices from CoinGecko.
 
 o	Click on any cryptocurrency to toggle and view detailed information from both CoinGecko and CoinCap.
+
 
 2.	Search:
 
