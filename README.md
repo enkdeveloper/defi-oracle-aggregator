@@ -1,5 +1,7 @@
 Crypto Aggregator
 
+https://defi-oracle-aggregator.vercel.app/
+
 Crypto Aggregator is a DeFi application that aggregates cryptocurrency price data from multiple sources. The project fetches price feeds from CoinGecko and CoinCap, computes an average price, and displays it on the frontend along with detailed information from each source.
 
 
